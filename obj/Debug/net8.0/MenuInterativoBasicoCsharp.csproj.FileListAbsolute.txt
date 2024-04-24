@@ -1,0 +1,14 @@
+C:\Projects\MenuInterativoBasicoCsharp\bin\Debug\net8.0\MenuInterativoBasicoCsharp.exe
+C:\Projects\MenuInterativoBasicoCsharp\bin\Debug\net8.0\MenuInterativoBasicoCsharp.deps.json
+C:\Projects\MenuInterativoBasicoCsharp\bin\Debug\net8.0\MenuInterativoBasicoCsharp.runtimeconfig.json
+C:\Projects\MenuInterativoBasicoCsharp\bin\Debug\net8.0\MenuInterativoBasicoCsharp.dll
+C:\Projects\MenuInterativoBasicoCsharp\bin\Debug\net8.0\MenuInterativoBasicoCsharp.pdb
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.AssemblyInfoInputs.cache
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.AssemblyInfo.cs
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.csproj.CoreCompileInputs.cache
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.dll
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\refint\MenuInterativoBasicoCsharp.dll
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.pdb
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\MenuInterativoBasicoCsharp.genruntimeconfig.cache
+C:\Projects\MenuInterativoBasicoCsharp\obj\Debug\net8.0\ref\MenuInterativoBasicoCsharp.dll
